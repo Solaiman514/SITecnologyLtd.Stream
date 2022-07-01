@@ -73,6 +73,27 @@ https://nbn.chowdhury-shaheb.com/live/nb-zbangla_720p/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/zeetv.png",Zee TV
+https://nbn.chowdhury-shaheb.com/live/nb-zetv_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/colors.png",Colors HD
+https://nbn.chowdhury-shaheb.com/live/nb-colors_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/sonymaxhd.png",Sony Max HD
+https://nbn.chowdhury-shaheb.com/live/nb-setmax_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Star Plus HD
+https://nbn.chowdhury-shaheb.com/live/nb-starplus_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",And Pictures HD
+https://nbn.chowdhury-shaheb.com/live/nb-npictures_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/zeecinemahd.png",Zee Cinema HD
+https://nbn.chowdhury-shaheb.com/live/nb-zee-cinema_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Star Gold Selected HD
+https://nbn.chowdhury-shaheb.com/live/star-gold-select_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+
+
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/gtv.png",Gazi TV
 https://nbn.chowdhury-shaheb.com/live/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/tsports.png",T Sports
