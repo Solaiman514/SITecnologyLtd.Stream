@@ -49,18 +49,83 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/mohonatv.png",Mohona TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v2/imageContent-94-j5fjveio-m1.png",Sony Aath
-https://sitechnologyltd786.shortcm.li/951/753/Sony_Aath.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/starjalshahd.png",Star Jalsha HD
+https://nbn.chowdhury-shaheb.com/live/nb-starjalsha_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Jalsha Movies HD
+https://nbn.chowdhury-shaheb.com/live/nb-jalshamovies_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/zeebanglahd.png",Zee Bangla HD
+https://nbn.chowdhury-shaheb.com/live/nb-zbangla_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/zeebanglacinema.png",Zee Bangla Cinema
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/sonyaath.png",Sony Aath
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/gtv.png",Gazi TV
+https://nbn.chowdhury-shaheb.com/live/gazitv/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/tsports.png",T Sports
+https://nbn.chowdhury-shaheb.com/live/tsports/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/sonysix.png",Sony Six HD
+https://nbn.chowdhury-shaheb.com/live/nb-sonysix_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/ten1.png",Sony Ten 1 HD
+https://nbn.chowdhury-shaheb.com/live/nb-sonyten1_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/ten2.png",Sony Ten 2 HD
+https://nbn.chowdhury-shaheb.com/live/nb-sonyten2_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/ten3.png",Sony Ten 3 HD
+https://nbn.chowdhury-shaheb.com/live/nb-sonyten3_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/starsports1hd.png",Star Sports 1 HD
+https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/starsports2hd.png",Star Sports 2 HD
+https://nbn.chowdhury-shaheb.com/live/nb-starsports2_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/starsportsselect1.png",Star Sports Selected 1 HD
+https://nbn.chowdhury-shaheb.com/live/nb-sonyten4_720p/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/starsportsselect2.png",Star Sports Selected 2 HD
+https://nbn.chowdhury-shaheb.com/live/nb-starsports3_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/9xm.png",9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
 
 
 
