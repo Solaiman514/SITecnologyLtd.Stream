@@ -175,25 +175,29 @@ https://nbn.chowdhury-shaheb.com/live/nb-starsports3_720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/bnO7FHuhtmI.png",Aljazeera HD
-
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",National Geographic HD
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",National Geo Wild
+https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Discovery HD World
+https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Animal Planet HD World
+https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",BBC Earth HD
+https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/f4UHrJW7uMl.png",BBC World News
+https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",TLC HD
+https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Travel XP HD
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
 
-
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/LJdHhKbEyEe.png",Gaan Bangla HD
+https://cdn.appv.jagobd.com:444/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/9xm.png",9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 
