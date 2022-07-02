@@ -49,6 +49,31 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/mohonatv.png",Mohona TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/VGfGMI3ZjzE.png",Ananda TV
+https://cdn.appv.jagobd.com:444/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
 
 
@@ -71,6 +96,10 @@ https://nbn.chowdhury-shaheb.com/live/nb-zbangla_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
 
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/zeetv.png",Zee TV
@@ -81,7 +110,9 @@ https://nbn.chowdhury-shaheb.com/live/nb-colors_720p/chunks.m3u8
 https://nbn.chowdhury-shaheb.com/live/nb-setmax_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Star Plus HD
 https://nbn.chowdhury-shaheb.com/live/nb-starplus_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",And Pictures HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/sVhHkfd2NwH.png",And TV HD
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/ApkJV96NEHz.png",And Pictures HD
 https://nbn.chowdhury-shaheb.com/live/nb-npictures_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/zeecinemahd.png",Zee Cinema HD
 https://nbn.chowdhury-shaheb.com/live/nb-zee-cinema_720p/chunks.m3u8
@@ -91,6 +122,21 @@ https://nbn.chowdhury-shaheb.com/live/star-gold-select_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
 
 
@@ -125,7 +171,10 @@ https://nbn.chowdhury-shaheb.com/live/nb-starsports3_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/bnO7FHuhtmI.png",Aljazeera HD
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
