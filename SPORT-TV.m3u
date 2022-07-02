@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/btvworld.png",Btv World
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/starsports1hd.png",
-https://github.com/Solaiman514/Channel/raw/main/Star_Sports_1_HD.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/starsports1hd.png",
-http://45.86.190.64:25461/FZarG1henw/5ehp5gpMht/34496?play_token=O3ewlRqRvM&token=TURYAhZYEAwSVwABXQZQWwxVBFBXWANXVFECU1AJUAQGB1RQBglUUwlGTxBLF0AGVA9uD1IbCQUFBlUAShsTFlMUbwoBEggUAVJaCgBQCkEZQEUPW1wRDAAFUAZeAVBXB14cQRVZVhQKChZeVE8QBk0WVBRYWF9pVVYSXAVcRF9YE1wPSRJdWG8ABl9ZDVZBD0AARBobWkVBEV5bE1UKSRQEWRcXUUZTEl4NR1QPHkFWDUQIQktKFAsRLXtEFUQAThJVDRZZXVgSXkFGS0EeQVwRbhRTSkdEVFIJUBQbXEcGRBxBCFFKaVMLDVxdAEYKWgxCRAwbAhQdEQlaCFASCkQ5QAoBEghYRQgPTw==
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/channel24.png",Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/news24.png",NEWS 24
@@ -15,7 +15,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/independent.png",Independent TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Jamuna TV
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/jumunatv.png",Jamuna TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/atnbangla.png",ATN Bangla
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
@@ -45,7 +45,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/maasranga.png",Maasranga TV
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://pcdn1.jagobd.com/images/m-nnkarj1652462996973.jpg",Channel 9
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/channel9.jpg",Channel 9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/mohonatv.png",Mohona TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
@@ -108,7 +108,7 @@ https://nbn.chowdhury-shaheb.com/live/nb-zetv_720p/chunks.m3u8
 https://nbn.chowdhury-shaheb.com/live/nb-colors_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/sonymaxhd.png",Sony Max HD
 https://nbn.chowdhury-shaheb.com/live/nb-setmax_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Star Plus HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/starplus.png",Star Plus HD
 https://nbn.chowdhury-shaheb.com/live/nb-starplus_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/sVhHkfd2NwH.png",And TV HD
 
@@ -116,7 +116,7 @@ https://nbn.chowdhury-shaheb.com/live/nb-starplus_720p/chunks.m3u8
 https://nbn.chowdhury-shaheb.com/live/nb-npictures_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/zeecinemahd.png",Zee Cinema HD
 https://nbn.chowdhury-shaheb.com/live/nb-zee-cinema_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Star Gold Selected HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/stargold.png",Star Gold Selected HD
 https://nbn.chowdhury-shaheb.com/live/star-gold-select_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
@@ -156,7 +156,7 @@ https://nbn.chowdhury-shaheb.com/live/nb-sonyten3_720p/chunks.m3u8
 https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/starsports2hd.png",Star Sports 2 HD
 https://nbn.chowdhury-shaheb.com/live/nb-starsports2_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/starsportsselect1.png",Star Sports Selected 1 HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/startsports-select-1hd.png",Star Sports Selected 1 HD
 https://nbn.chowdhury-shaheb.com/live/nb-sonyten4_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/starsportsselect2.png",Star Sports Selected 2 HD
 https://nbn.chowdhury-shaheb.com/live/nb-starsports3_720p/chunks.m3u8
@@ -176,13 +176,13 @@ https://nbn.chowdhury-shaheb.com/live/nb-starsports3_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/bnO7FHuhtmI.png",Aljazeera HD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",National Geographic HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/natgeo.png",National Geographic HD
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",National Geo Wild
 https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Discovery HD World
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/discovery.png",Discovery HD World
 https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Animal Planet HD World
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/animalplanet.png",Animal Planet HD World
 https://livecdn.fptplay.net/hda2/animalplanet_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",BBC Earth HD
 https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
