@@ -177,6 +177,7 @@ https://nbn.chowdhury-shaheb.com/live/nb-starsports3_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/bnO7FHuhtmI.png",Aljazeera HD
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/natgeo.png",National Geographic HD
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",National Geo Wild
 https://livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
