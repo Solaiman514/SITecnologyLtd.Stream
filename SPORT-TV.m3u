@@ -193,8 +193,8 @@ https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/dw.png",DW News
+https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/live-orgin/dwnews.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/LJdHhKbEyEe.png",Gaan Bangla HD
