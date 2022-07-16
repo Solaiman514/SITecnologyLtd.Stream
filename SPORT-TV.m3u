@@ -118,21 +118,21 @@ https://nbn.chowdhury-shaheb.com/live/nb-npictures_720p/chunks.m3u8
 https://nbn.chowdhury-shaheb.com/live/nb-zee-cinema_720p/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/stargold.png",Star Gold Selected HD
 https://nbn.chowdhury-shaheb.com/live/star-gold-select_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",The Q
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/TheQ.jpeg",The Q
 https://restv4-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/487/assetId/796290/assetType/media/assetFileId/8167711/contextType/PLAYBACK/isAltUrl/False/a.m3u8?playSessionId=9f9aed47-1dd5-aa3a-4540-5ad6b8306b2e:3122a12b-a73a-16a2-fcfa-48dc0cfb4da2&referrer=aHR0cHM6Ly93d3cud2F0Y2hvLmNvbS93YXRjaC9jaGFubmVsL3RoZS1xLzc5NjI5MA==&clientTag=html5:v7.42
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/bflixmovies.png" tvg-logo="",Bflix Movie
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/bflixmovies.png",Bflix Movie
 https://itvoign.multitvsolution.com/idvo/bixflixmovies.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Wow Cinema
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/wowmovie.jpg",Wow Cinema
 https://itvoign.multitvsolution.com/idvo/wowcinema.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Maha Movie
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/mahamovie.jpg",Maha Movie
 https://itvoign.multitvsolution.com/idvo/mahamovie.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/b4u.png",Housefull Movies
 https://itvoign.multitvsolution.com//idvo/housefullmovies.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Manoranjan TV
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/monoranjantv.jpg",Manoranjan TV
 https://idvd.multitvsolution.com/idvo/manoranjantv.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Manoranjan Movie
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/monoranjangrand.jpeg",Manoranjan Movie
 https://idvd.multitvsolution.com/idvo/manoranjanmovies.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/b4umovies.png",B4U Kadak
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/b4ukadak.jpeg",B4U Kadak
 https://itvoign.multitvsolution.com/idvo/moviehouse.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
@@ -165,7 +165,8 @@ https://feeds.intoday.in/hltapps/api/master.m3u8?Live-TV™
 
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/gtv.png",Gazi TV
-https://nbn.chowdhury-shaheb.com/live/gazitv/chunks.m3u8
+https://tv.kotha.im/GTV_HD/index.m3u8
+#https://nbn.chowdhury-shaheb.com/live/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/tsports.png",T Sports
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/sonysix.png",Sony Six HD
