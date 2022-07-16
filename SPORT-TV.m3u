@@ -61,10 +61,10 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
-
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Madani TV Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Iqraa TV
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?Live-TV™
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
@@ -226,6 +226,19 @@ https://cdn.appv.jagobd.com:444/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/sangeetbangla.png",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Ptc Chakde
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w372446408_b1396000_sleng.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/zoom.png",Joo Music
+https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Bhojpuri Hungama
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Sakkat
+https://live.hungama.com/linear/sakkat/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8?Live-TV™
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
 
 #EXTINF:-1 tvg-name="beIN PREMIUM 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",beIN PREMIUM 1 HD
