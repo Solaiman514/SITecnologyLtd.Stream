@@ -61,9 +61,9 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Madani TV Bangla
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/madanibangla.jpg",Madani TV Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Iqraa TV
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/iqratv.jpg",Iqraa TV
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8?Live-TV™
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
@@ -214,7 +214,7 @@ https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/master.m3u8
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",TLC HD
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Travel XP HD
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/travelxp.jpeg",Travel XP HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/FireTV/dw.png",DW News
 https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dwnews.stream/live-orgin/dwnews.stream/chunks.m3u8
@@ -226,15 +226,15 @@ https://cdn.appv.jagobd.com:444/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/sangeetbangla.png",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Ptc Chakde
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/images.jpeg",Ptc Chakde
 https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w372446408_b1396000_sleng.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/Dugdugi/zoom.png",Joo Music
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Bhojpuri Hungama
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/hungama.jpeg",Bhojpuri Hungama
 https://live.hungama.com/linear/dhamaal/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Sakkat
 https://live.hungama.com/linear/sakkat/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",Desi Channel
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="https://github.com/Solaiman514/IMG.SITechnologyLtd/raw/main/deshichannel.jpeg",Desi Channel
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8?Live-TV™
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="" tvg-logo="",
 
